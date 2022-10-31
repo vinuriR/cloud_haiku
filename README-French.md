@@ -117,3 +117,4 @@ Nous sommes heureux de fusionner les pull requests valides avec ce dépôt ! Tou
 Gardez vos haïkus liés à la technologie de l'infrastructure du cloud, et prenez plaisir à contribuer à ce projet !
 
 ![Sammy le requin et d'autres poissons qui nagent](https://do-community.github.io/cloud_haiku/assets/swim.png)
+je suis une etudiante , et j'adore ICT
